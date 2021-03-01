@@ -46,6 +46,8 @@ http://live.realitatea.net/livertmp/plus/playlist.m3u8
 #EXTINF:-1 group-title="Romanesti",Realitatea Plus TV
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Sport",~ ONE GOLF HD
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US;UK" tvg-language="English" tvg-logo="https://i.imgur.com/pggeczF.jpg" tvg-url="" group-title="Sport",World of Free Sports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Flow Sports 1 (720p)
