@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,NBC Golf
+http://203.154.243.89:1208
+#EXTINF:-1,One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png",golfnetwork.co.jp
+http://203.162.235.41:16924
+#EXTINF:-1,Golf - golfnetwork.co.jp
+http://203.162.235.41:16924
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bO6iyBk.png" group-title="USA",NBC Golf
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,NBC Sports Golf HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
+#EXTINF:-1,NBC GOLF SD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC GOLF 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC GOLF 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,Golf HD
+http://d4life.dtdns.net:8000/live/haro1/haro1/3843.m3u8
+#EXTINF:-1,CA: Golf Channel
+http://iptv-volkan.ddns.net:8000/live/1234567/7654321/2830.m3u8
+#EXTINF:-1,FR: GOLF+
+http://iptv-volkan.ddns.net:8000/live/1234567/7654321/2580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL SPORT 1 GOLF",NL SPORT 1 GOLF
+http://iptv-volkan.ddns.net:8000/live/1234567/7654321/1161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPA:C  Golf",SPA:C  Golf
+http://iptv-volkan.ddns.net:8000/live/1234567/7654321/1763.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR|GOLF+HD" tvg-logo="",FR| GOLF+HD
+http://topiptv.net:5890/live/taha/taha/1782.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESP|M.GOLF HD",ESP| M.GOLF HD
+http://topiptv.net:5890/live/taha/taha/1549.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LOCAL:M.GOLF HD",LOCAL:M.GOLF HD
+http://topiptv.net:5890/live/taha/taha/3055.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LOCAL:M.GOLF",LOCAL:M.GOLF
+http://topiptv.net:5890/live/taha/taha/3040.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LOCAL:GOLF  HD",LOCAL:GOLF  HD
+http://topiptv.net:5890/live/taha/taha/1939.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LOCAL:GOLF +",LOCAL:GOLF +
+http://topiptv.net:5890/live/taha/taha/2028.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CA|Golf Channel",CA|Golf Channel
+http://topiptv.net:5890/live/taha/taha/3272.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Viasat Golf",Viasat Golf
+http://topiptv.net:5890/live/taha/taha/2354.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="C|More Golf",C|More Golf
+http://topiptv.net:5890/live/taha/taha/2353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD",Golf Channel HD
+http://clinetiptv.ddns.net:8000/live/active/active/1319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M  GOLF",M  GOLF
+http://clinetiptv.ddns.net:8000/live/active/active/539.m3u8
+#EXTINF:-1 tvg-name="M Golf HD",M Golf HD
+http://d4life.dtdns.net:8000/live/haro1/haro1/3843.m3u8
