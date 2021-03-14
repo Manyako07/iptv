@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1,One Golf
+#EXTINF:-1,* * * One Golf * * *
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png",golfnetwork.co.jp
-http://203.162.235.41:16924
-#EXTINF:-1,Golf - golfnetwork.co.jp
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png",* * * golfnetwork JP * * *
 http://203.162.235.41:16924
 #EXTINF:-1,NBC Golf
 http://203.154.243.89:1208
