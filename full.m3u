@@ -46,7 +46,7 @@ http://live.realitatea.net/livertmp/plus/playlist.m3u8
 #EXTINF:-1 group-title="Romanesti",Realitatea Plus TV
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Sport",~ ONE GOLF HD
+#EXTINF:-1 group-title="Sport",~ ~ ~  ONE GOLF HD  ~ ~ ~
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US;UK" tvg-language="English" tvg-logo="https://i.imgur.com/pggeczF.jpg" tvg-url="" group-title="Sport",World of Free Sports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
@@ -228,7 +228,7 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 #EXTINF:-1 group-title="x x x",Miami TV
 http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
-#EXTINF:-1 group-title="x x x",Miami TV Colombia
+#EXTINF:-1 group-title="x x x",Miami TV Mexico
 http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1 group-title="x x x",Miami TV (Latin)
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
