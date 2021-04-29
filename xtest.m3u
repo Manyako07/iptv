@@ -175,26 +175,6 @@ http://cdn.adultiptv.net/threesome.m3u8
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",AdultIPTV.net Woman
 http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="x x x",AST TV 1 (HD)
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="x x x",AST TV 1 (HQ)
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="x x x",AST TV 1 (LQ)
-https://www.ast.tv/stream/1/normal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="x x x",AST TV 1 (PC) (1080p)
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="x x x",AST TV 1 (Phone)
-http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="x x x",AST TV 2 (Cellular)
-http://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="x x x",AST TV 2 (HD)
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="x x x",AST TV 2 (HQ)
-https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="x x x",AST TV 2 (LQ)
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="x x x",AST TV 2 (PC) (1080p)
-http://www.ast.tv/stream/2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",Hustler TV
 http://188.35.9.26:2030/udp/047c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JhmIPpq.png" tvg-url="" group-title="x x x",Reality Kings TV
@@ -207,3 +187,7 @@ http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-url="" group-title="x x x",Visit-X TV (720p)
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="z z z",AST TV 1 (HD)
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="z z z",AST TV 2 (HD)
+https://www.ast.tv/stream/2/ultra.m3u8
