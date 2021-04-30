@@ -50,6 +50,10 @@ http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="GOLFNETWORK.us" tvg-name="GOLF NETWORK" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",GOLF NETWORK
 http://203.162.235.41:16924
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" tvg-url="" group-title="Sport",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/CKnSeT7.png" tvg-url="" group-title="Sport",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LookSport.ro" tvg-name="LookSport" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/uaJQZrv.png" tvg-url="" group-title="Sport",LookSport
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
 #EXTINF:-1 tvg-id="LookSport2.ro" tvg-name="LookSport 2" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/uJzkQGv.png" tvg-url="" group-title="Sport",LookSport 2
