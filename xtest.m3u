@@ -175,3 +175,7 @@ https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="z z z",AST TV 2 (HD)
 https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="x x x",Eroxxx HD
+http://147.78.163.247:8000/play/a021
+#EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="x x x",Extasy TV HD
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
