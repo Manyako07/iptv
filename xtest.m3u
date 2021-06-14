@@ -17,167 +17,136 @@ http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1 group-title="h o t",Miami TV (Latin)
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
-#EXTINF:-1 group-title="h o t",Nuart TV
-http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3f/PLAYBOY_TV.jpg" tvg-url="" group-title="h o t",Playboy TV
-http://187.188.147.165:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/private-tv-1.jpg" tvg-url="" group-title="h o t",Private TV
-http://87.207.71.147:4000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/private-tv-1.jpg" tvg-url="" group-title="h o t",Private TV
-http://source-streams.com:8081/buyasaponline/26022019/95
 #EXTINF:-1 group-title="h o t",Jasmin TV HD
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LU" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-url="" group-title="h o t",Jasmin TV HD
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LU" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-url="" group-title="h o t",Jasmin TV SD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="h o t",Blue Hustler
-http://178.217.72.66:80/225.201.2.61/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/JgcUO21.jpg" tvg-country="HU" tvg-url="" group-title="h o t",Super One HD
-http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1 group-title="h o t",Babestation
-http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8
-#EXTINF:-1 group-title="h o t",Babestation 2
-https://ss3.firestormmedia.tv/cellcast2/smil:encoder3.smil/manifest.m3u8
-#EXTINF:-1 group-title="h o t",BabeStation 24
-http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
-#EXTINF:-1 group-title="h o t",Babestation Xtra
-https://ss4.firestormmedia.tv/cellcast2/smil:encoder7.smil/manifest.m3u8
-#EXTINF:-1 group-title="h o t",Candyman
-http://serv30.vintera.tv:8081/candy/candyman29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Anal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Anal
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Asian
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Big Ass
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Tits" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Big Tits
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blowjob" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Cuckold" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Fetish" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Fetish
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Gangbang
-http://live.redtraffic.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Hardcore" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Interracial" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Interracial
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Latina" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Latina
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Lesbian" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv MILF
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Pornstar" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net POV" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv POV
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Russian" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Russian
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Teen" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Teen
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="x x x",a iptv Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Threesome
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",a iptv Woman
-http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 group-title="x x x",Big Ass
-https://ch.iptvmate.net/092284edab11da44e209f5e0edd68af2.m3u8
-#EXTINF:-1 group-title="x x x",Big Ass HD
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
-#EXTINF:-1 group-title="x x x",Big Dick
-https://ch.iptvmate.net/5942a1f14fa8abe58251efcbbc2b88ef.m3u8
-#EXTINF:-1 group-title="x x x",Big Dick HD
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigdick.m3u8
-#EXTINF:-1 group-title="x x x",Big Tits
-https://ch.iptvmate.net/8602a0dc861a6084b1e60d4b72c3175d.m3u8
-#EXTINF:-1 group-title="x x x",Big Tits HD
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigtits.m3u8
-#EXTINF:-1 group-title="x x x",Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="x x x",Blowjob
-https://ch.iptvmate.net/7117a69d1d618c82843facf705e9dd73.m3u8
-#EXTINF:-1 group-title="x x x",Blowjob HD
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/blowjob.m3u8
-#EXTINF:-1 group-title="x x x",Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="x x x",Cuckold * http://finevids.xxx
-https://ch.iptvmate.net/877fdd4e981f99d05a374893946aca2a.m3u8
-#EXTINF:-1 group-title="x x x",Blue Hustler
-http://178.217.72.66:80/225.201.2.61/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="x x x",Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="x x x",Hustler TV
-http://188.35.9.26:2030/udp/047c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JhmIPpq.png" tvg-url="" group-title="x x x",Reality Kings TV
-http://188.35.9.26:5031/udp/058j
-#EXTINF:-1 tvg-id="PlayboyTV.us" tvg-name="Playboy TV" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3f/PLAYBOY_TV.jpg" tvg-url="" group-title="x x x",Playboy TV
-http://187.188.147.165:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="PrivateTV.us" tvg-name="Private TV" tvg-country="US" tvg-language="English" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/private-tv-1.jpg" tvg-url="" group-title="x x x",Private TV
-http://87.207.71.147:4000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-name="Visit-X TV" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-url="" group-title="x x x",Visit-X TV (720p)
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-name="Visit-X TV" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-url="" group-title="x x x",Visit-X TV (360p)
-http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-name="Visit-X TV" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-url="" group-title="x x x",Visit-X TV (720p)
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-name="Visit-X TV" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-url="" group-title="x x x",Visit-X TV (720p)
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="z z z",AST TV 1 (HD)
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="z z z",AST TV 2 (HD)
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="x x x",Eroxxx HD
-http://147.78.163.247:8000/play/a021
+
 #EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="x x x",Extasy TV HD
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF:-1 group-title="x x x", anal 
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="x x x", asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="x x x", bigass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="x x x", bigdick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="x x x", bigtits 
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="x x x", blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="x x x", blowjob 
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="x x x", brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="x x x", compilation 
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="x x x", cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="x x x", fetish 
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="x x x", gangbang 
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="x x x", hardcore 
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="x x x", interracial 
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="x x x", latina 
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="x x x", lesbian 
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="x x x", livecams 
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="x x x", milf
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="x x x", pornstar 
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="x x x", pov 
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="x x x", rough 
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="x x x", russian 
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="x x x", teen 
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="x x x", threesome 
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="x x x", gangbang 
+http://live.redtraffic.net/gangbang.m3u8
+#EXTINF:-1 group-title="x x x", woman 
+http://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 group-title="x x x", bigass 
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="x x x", bigdick 
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="x x x", bigtits 
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="x x x", blowjob 
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="x x x", cuckold 
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="x x x", fetish 
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="x x x", hardcore 
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="x x x", interracial 
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="x x x", latina 
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="x x x", lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="x x x", milf 
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="x x x", pornstar 
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="x x x", pov 
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="x x x", russian 
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="x x x", teen 
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="x x x", threesome 
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 group-title="x x x", ru/anal 
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
+#EXTINF:-1 group-title="x x x", ru/bigass 
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
+#EXTINF:-1 group-title="x x x", ru/bigdick 
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigdick.m3u8
+#EXTINF:-1 group-title="x x x", ru/bigtits 
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigtits.m3u8
+#EXTINF:-1 group-title="x x x", ru/blowjob 
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/blowjob.m3u8
+#EXTINF:-1 group-title="x x x", live_360p
+http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
+#EXTINF:-1 group-title="x x x", live_720p
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="x x x",A 1
+https://ch.iptvmate.net/092284edab11da44e209f5e0edd68af2.m3u8
+#EXTINF:-1 group-title="x x x",A 2
+https://ch.iptvmate.net/5942a1f14fa8abe58251efcbbc2b88ef.m3u8
+#EXTINF:-1 group-title="x x x",A 3
+https://ch.iptvmate.net/7117a69d1d618c82843facf705e9dd73.m3u8
+#EXTINF:-1 group-title="x x x",A 4
+https://ch.iptvmate.net/8602a0dc861a6084b1e60d4b72c3175d.m3u8
+#EXTINF:-1 group-title="x x x",A 5
+https://ch.iptvmate.net/877fdd4e981f99d05a374893946aca2a.m3u8
+#EXTINF:-1 group-title="x x x",A 6
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 group-title="x x x",A 7
+http://147.78.163.247:8000/play/a021
+#EXTINF:-1 group-title="x x x",A 8
+http://178.217.72.66:80/225.201.2.61/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="x x x",A 9
+http://187.188.147.165:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="x x x",A 10
+http://188.35.9.26:2030/udp/047c
+#EXTINF:-1 group-title="x x x",A 11
+http://188.35.9.26:5031/udp/058j
+#EXTINF:-1 group-title="x x x",A 12
+http://87.207.71.147:4000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="x x x", live_720p
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
