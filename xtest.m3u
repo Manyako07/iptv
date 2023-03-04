@@ -1,31 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ikorRe8.png" tvg-url="" group-title="h o t",A 3 Bikini TV (720p)
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-id="A3Bikini.ca" tvg-name="A3 Bikini" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" group-title="h o t",A3 Bikini
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-url="" group-title="h o t",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-url="" group-title="h o t",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-url="" group-title="h o t",Miami TV Latino
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="Spanish" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" tvg-url="" group-title="h o t",Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-#EXTINF:-1 group-title="h o t",Miami TV
-http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
-#EXTINF:-1 group-title="h o t",Miami TV Colombia
-http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
-#EXTINF:-1 group-title="h o t",Miami TV (Latin)
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
-#EXTINF:-1 group-title="h o t",Jasmin TV HD
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LU" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-url="" group-title="h o t",Jasmin TV HD
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LU" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-url="" group-title="h o t",Jasmin TV SD
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="x x x",Extasy TV HD
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 #EXTINF:-1 group-title="x x x",anal 
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="x x x",asian
@@ -110,17 +87,3 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 group-title="x x x",threesome 
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 group-title="x x x",ru/anal 
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
-#EXTINF:-1 group-title="x x x",ru/bigass 
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
-#EXTINF:-1 group-title="x x x",ru/bigdick 
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigdick.m3u8
-#EXTINF:-1 group-title="x x x",ru/bigtits 
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigtits.m3u8
-#EXTINF:-1 group-title="x x x",ru/blowjob 
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/blowjob.m3u8
-#EXTINF:-1 tvg-id="RusskayaNoch.ru" tvg-name="Russkaya Noch" tvg-country="RU" tvg-language="Russian" tvg-logo="https://fast.ntvplus.tv/files/image/07/10/28/-channel!r01.png" group-title="x nou",Russkaya Noch
-http://212.42.193.122:8888/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id="PlayboyTVEurope.us" tvg-name="Playboy TV Europe" tvg-country="US" tvg-language="English" tvg-logo="" group-title="x nou",Playboy TV Europe
-http://212.42.193.122:8888/play/a00p/index.m3u8
