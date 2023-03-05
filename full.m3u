@@ -36,18 +36,14 @@ https://testcam.go.ro:8080/hls/livestream.m3u8
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="Romanesti",Bucovina TV (480p)
+#EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="General",Bucovina TV (480p)
 http://46.4.14.12:9999/btvsvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-logo="https://i.imgur.com/cNXM4Mu.png" group-title="Romanesti",Intermedia TV (576p)
+#EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-logo="https://i.imgur.com/cNXM4Mu.png" group-title="General",Intermedia TV (576p)
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Romanesti",MEDIA REGIONAL (576p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",MEDIA REGIONAL (576p)
 http://83.103.150.198:8080
 #EXTINF:-1 tvg-id="NTVEurope.bd" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="General",NTV Europe (720p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="Romanesti",Prima TV (404p) [Not 24/7]
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-logo="https://i.ibb.co/TH1T2Y2/Rapsodia-TV.png" group-title="Romanesti",Rapsodia TV
-http://92.86.248.141:8080/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="General",TVPlus Suceava (576p)
 http://85.186.146.34:8080
 #EXTINF:-1 tvg-id="TVR3.ro" tvg-logo="https://i.imgur.com/JZ6XuED.png" group-title="General",TVR 3 (720p)
@@ -186,7 +182,7 @@ http://92.86.248.141:8080/ram/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-url="" group-title="H o t",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="Spanish" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" tvg-url="" group-title="x x x",Miami TV Mexico
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="Spanish" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" tvg-url="" group-title="H o t",Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 
 #EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy Europe (720p)
@@ -199,8 +195,3 @@ http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNInternational.us" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Religious",Three Angels Broadcasting Network International (3ABN) (720p)
 https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
-
-#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/AZBod7u.png" group-title="Externe",Galicia TV Europa (720p)
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="Externe",Light Channel (480p) [Not 24/7]
-http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
