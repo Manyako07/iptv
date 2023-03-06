@@ -115,29 +115,29 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 group-title="Music",MTV BLOCK PARTY
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 group-title="Music",Radio HIT TV
-#EXTINF:-1 tvg-name="V2Beat TV (UK)" tvg-id="" tvg-logo="https://i.imgur.com/PXhzoPd.jpg" group-title="MUSIC",V2Beat TV (UK)
+#EXTINF:-1 tvg-name="V2Beat TV (UK)" tvg-id="" tvg-logo="https://i.imgur.com/PXhzoPd.jpg" group-title="Music",V2Beat TV (UK)
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-name="VEVO 2K (US)" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="MUSIC",VEVO 2K (US)
+#EXTINF:-1 tvg-name="VEVO 2K (US)" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",VEVO 2K (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?
-#EXTINF:-1 tvg-name="VEVO 80's (US)" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="MUSIC",VEVO 80's (US)
+#EXTINF:-1 tvg-name="VEVO 80's (US)" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",VEVO 80's (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?
-#EXTINF:-1 tvg-name="VEVO 90's (US)" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="MUSIC",VEVO 90's (US)
+#EXTINF:-1 tvg-name="VEVO 90's (US)" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music",VEVO 90's (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?
-#EXTINF:-1 tvg-name="VEVO Country (US)" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="MUSIC",VEVO Country (US)
+#EXTINF:-1 tvg-name="VEVO Country (US)" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",VEVO Country (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?
-#EXTINF:-1 tvg-name="Vevo Pop (US)" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="MUSIC",Vevo Pop (US)
+#EXTINF:-1 tvg-name="Vevo Pop (US)" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music",Vevo Pop (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?
-#EXTINF:-1 tvg-name="VEVO R&B (US)" tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="MUSIC",VEVO R&B (US)
+#EXTINF:-1 tvg-name="VEVO R&B (US)" tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Music",VEVO R&B (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?
-#EXTINF:-1 tvg-name="VEVO Reggeaton & Trap (US)" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="MUSIC",VEVO Reggeaton & Trap (US)
+#EXTINF:-1 tvg-name="VEVO Reggeaton & Trap (US)" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="Music",VEVO Reggeaton & Trap (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?
-#EXTINF:-1 tvg-name="Video Tour Channel HD (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/l1oc3ER.png",Video Tour Channel HD (US)
+#EXTINF:-1 tvg-name="Video Tour Channel HD (US)" tvg-id="" group-title="Music" tvg-logo="https://i.imgur.com/l1oc3ER.png",Video Tour Channel HD (US)
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1 tvg-name="Techno Warehouse (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",Techno Warehouse (US)
+#EXTINF:-1 tvg-name="Techno Warehouse (US)" tvg-id="" group-title="Music" tvg-logo="https://i.imgur.com/GyxXMDv.png",Techno Warehouse (US)
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
-#EXTINF:-1 tvg-name="30A Music (US)" tvg-id="30a-tv.com" group-title="MUSIC" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (US)
+#EXTINF:-1 tvg-name="30A Music (US)" tvg-id="30a-tv.com" group-title="Music" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (US)
 http://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV (UK)" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="MUSIC",Clubbing TV (UK)
+#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV (UK)" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="Music",Clubbing TV (UK)
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" tvg-country="FR" tvg-url="" group-title="Fashion",F-TV Midnite Secrets
@@ -155,6 +155,12 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="My time Movies Network" tvg-logo="https://i.imgur.com/SQInLji.png" group-title="Movies",My Time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Redbox 1: Spotlight" tvg-ID="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="Movies",Redbox 1: Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Redbox 2: Comedy" tvg-ID="" tvg-name="Comedy" tvg-logo="https://i.imgur.com/QIifkey.jpg" group-title="Movies",Redbox 2: Comedy
+https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Redbox 3: Rush" tvg-ID="" tvg-name="Rush" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" group-title="Movies",Redbox 3: Rush
+https://rush-redbox.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" tvg-url="" group-title="Animale",American Kennel Club TV
 https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
@@ -284,12 +290,6 @@ http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLin
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="One America News" tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg" group-title="USA",One America News
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
-#EXTINF:-1 tvg-name="Redbox 1: Spotlight" tvg-ID="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="USA REDBOX",Redbox 1: Spotlight
-https://spotlight-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Redbox 2: Comedy" tvg-ID="" tvg-name="Comedy" tvg-logo="https://i.imgur.com/QIifkey.jpg" group-title="USA REDBOX",Redbox 2: Comedy
-https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Redbox 3: Rush" tvg-ID="" tvg-name="Rush" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" group-title="USA REDBOX",Redbox 3: Rush
-https://rush-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="BigLife TV" tvg-logo="https://i.imgur.com/GmM19zu.png" group-title="USA",BigLife TV
 http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bon Appetit" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="USA",Bon Appetit
@@ -300,3 +300,4 @@ https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Outside TV+" tvg-logo="https://i.imgur.com/1CViR0E.png" group-title="USA",Outside TV+
 https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+
