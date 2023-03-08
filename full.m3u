@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/logoman/RO.png" group-title="Romanesti",B a n a t   T V
+#EXTINF:-1 tvg-logo="https://archive.org/download/logoman/RO.png" group-title="Romanesti",B a n a t   T V
 rtmp://81.18.66.8/live/banat-tv.flv
 #EXTINF:-1 tvg-id="PrimaTV.ro" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="Romanesti",Prima TV (404p) [Not 24/7]
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
@@ -28,14 +28,6 @@ http://5ab29cc78f681.streamlock.net:1935/NasulTV/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Romanesti",AgroTV (404p) [Not 24/7]
 https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
-#EXTINF:-1 tvg-id="ProfitTV.ro" tvg-logo="https://i.imgur.com/uPmPAED.png" group-title="Business",Profit.ro (404p)
-https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Business",Kapital TV (576p)
-https://testcam.go.ro:8080/hls/livestream.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
-https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
-https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="General",Bucovina TV (480p)
 http://46.4.14.12:9999/btvsvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-logo="https://i.imgur.com/cNXM4Mu.png" group-title="General",Intermedia TV (576p)
@@ -93,10 +85,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-id="EdgeSport.us" tvg-name="Edge Sport" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" tvg-url="" group-title="Sport",Edge Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport",EDGEsport (1080p)
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="canalmotor.tv" tvg-name="Canal Motor" tvg-country="NO" tvg-language="English" tvg-logo="https://i.imgur.com/9z3mzDJ.jpg" tvg-url="" group-title="Sport",Canal Motor (720p)
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MMA Junkie (US)" tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="Sport",MMA Junkie (US)
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-name="Adventure Sports TV - US (360p) [Not 24/7]" tvg-logo="" group-title="Sport",Adventure Sports TV (360p) [Not 24/7]
+https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZUTV.ro" tvg-logo="https://i.imgur.com/1gtkGhB.png" group-title="Music",ZU TV
 https://rundle.deta.dev/hls/LIVE$ZuTelevision/6.m3u8/Level(19012010)?end=END&start=LIVE
@@ -139,6 +135,10 @@ https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
 http://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clubbing TV (UK)" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="Music",Clubbing TV (UK)
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Afrobeats.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Iaey8k5.jpg" group-title="Music",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/box_hits.png" group-title="Music",Box Hits (576p)
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" tvg-country="FR" tvg-url="" group-title="Fashion",F-TV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
@@ -161,6 +161,24 @@ https://spotlight-redbox.amagi.tv/playlist.m3u8
 https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="Redbox 3: Rush" tvg-ID="" tvg-name="Rush" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" group-title="Movies",Redbox 3: Rush
 https://rush-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="Movies",Comedy Channel UK (1080p)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Redbox 1: Spotlight" tvg-ID="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="Movies",Redbox 1: Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Rakuten Action Movies UK (720p)
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Rakuten Comedy Movies UK (720p)
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Rakuten Family UK (720p)
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Rakuten Shows UK (720p)
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Rakuten Spotlight UK (720p)
+https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Rakuten Top Free UK (720p)
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Real Stories (720p)
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" tvg-url="" group-title="Animale",American Kennel Club TV
 https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
@@ -174,6 +192,11 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8
 https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2nzRS60.png" tvg-url="" group-title="Animale",AKC TV - Puppies
 https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://horseandcountry.tv/wp-content/themes/hctv/img/hc_logo_header.png" group-title="Animale",Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-id="HorseandCountry.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="Animale",Horse and Country (720p)
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WrYEcXp.png" tvg-url="" group-title="General",Young Hollywood
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
@@ -227,6 +250,10 @@ https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="~ Uppera Balkan (Austria) ~" tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="International",Uppera Balkan (Austria)
 http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-logo="https://i.imgur.com/bE1Vksp.png" group-title="International",TV Duga Plus (480p) [Not 24/7]
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAS.rs" tvg-logo="https://i.imgur.com/Vn0DKBN.png" group-title="International",RTV AS (576p)
+https://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1 tvg-name="~ ABC News Australia ~" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="International",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-name="~ Ausbiz TV (Australia) ~" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="International",Ausbiz TV (Australia)
@@ -235,10 +262,6 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="~ Fuel TV (Australia) ~" tvg-id="" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="International",Fuel TV (Australia)
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Horse and Country (Australia)" tvg-id="" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="International",Horse and Country (Australia)
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Horse and Country (UK)" tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="International",Horse and Country (UK)
-https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Insight TV (Australia)" tvg-id="" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="International",Insight TV (Australia)
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Inwild TV (Australia)" tvg-id="" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="International",Inwild TV (Australia)
@@ -301,3 +324,13 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Outside TV+" tvg-logo="https://i.imgur.com/1CViR0E.png" group-title="USA",Outside TV+
 https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ProfitTV.ro" tvg-logo="https://i.imgur.com/uPmPAED.png" group-title="Business",Profit.ro (404p)
+https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Business",Kapital TV (576p)
+https://testcam.go.ro:8080/hls/livestream.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV (1080p) (UK)
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
