@@ -6,28 +6,28 @@ https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-id="AlephNews.ro" tvg-logo="https://i.imgur.com/qPRQZMI.png" group-title="News",Aleph News (720p)
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/gYnbgRD.png" group-title="News",Antena 3 CNN
-https://live3vox.antenaplay.ro/a3free/a3free.m3u8?checkedby:iptvcat.com
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/NF5qJMh.png" group-title="Lifestyle",Antena Monden (720p)
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8?checkedby:iptvcat.com
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/GFm1P51.png" group-title="Lifestyle",CaTine (720p)
-https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8?checkedby:iptvcat.com
+https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Lifestyle",TVR International (1080p)
-https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8?checkedby:iptvcat.com
+https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",30A Golf Kingdom
-https://30a-tv.com/feeds/vidaa/golf.m3u8?checkedby:iptvcat.com
+https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",GolfPass
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65493029ab052400089e9d2f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291881-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc355a72-e401-4038-a2fd-7378aedc3a6f&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="Sport",AUTO MOTO
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:0 tvg-country="AT" tvg-logo="" group-title="Sport",Red Bull TV (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8?checkedby:iptvcat.com
+https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Red Bull TV (720p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Red Bull TV HD
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?checkedby:iptvcat.com
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Sport",Red Bull TV,Red Bull TV Full HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedby:iptvcat.com
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="Sport",Red Bull TV HD
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-country="INT" tvg-url="" group-title="Sport",Red Bull TV v3
@@ -58,17 +58,17 @@ http://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="Afrobeats.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Iaey8k5.jpg" group-title="Music",Afrobeats (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Music",Impact TV Dance (1080p)
-https://online.tvimpact.live/hls/dancetv.m3u8?checkedby:iptvcat.com
+https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Music",Kiss TV (1080p)
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8?checkedby:iptvcat.com
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Music",MoozDance (576p)
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8?checkedby:iptvcat.com
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Music",MoozHits (576p)
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8?checkedby:iptvcat.com
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Music",MoozRo (576p)
-https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8?checkedby:iptvcat.com
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/F69gAWa.png" group-title="Music",Rock TV (720p)
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8?checkedby:iptvcat.com
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 group-title="News",CBSN Dallas
 https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
@@ -103,7 +103,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Fashion",Fashion TV (1080p)
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV UHD (2160p)
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8?checkedby:iptvcat.com
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Midnite Secrets
@@ -112,13 +112,13 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/kBol4Pf.png" group-title="General",Palm Beaches TV (720p)
-https://live.feed.thepalmbeaches.tv/index.m3u8?checkedby:iptvcat.com
+https://live.feed.thepalmbeaches.tv/index.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png" group-title="General",Beach TV,Beach TV (Panama City)
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8?checkedby:iptvcat.com
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/qjzj4TJ.png" group-title="General",Beach TV - Florida - Alabama (720p)
-https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8?checkedby:iptvcat.com
+https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="General",Beach TV - Key West - Florida Keys
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8?checkedby:iptvcat.com
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg" tvg-url="" group-title="General",Beach TV (30A) (720p)
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://www.cla.csulb.edu/departments/polisci/wp-content/uploads/2016/01/Beach-TV-Logo-300x169.jpg" tvg-url="" group-title="General",Beach TV (CSULB) (720p)
@@ -129,11 +129,11 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Altele",Super TV (1084p)
-http://iptv.supertv.ro:8000/play/a001/index.m3u8?checkedby:iptvcat.com
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Altele",Impact TV Manele (1080p)
-https://online.tvimpact.live/hls/impact_tv.m3u8?checkedby:iptvcat.com
+https://online.tvimpact.live/hls/impact_tv.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/XiBna64.png" group-title="Altele",Mireasa (720p)
-https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8?checkedby:iptvcat.com
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="My time Movies Network" tvg-logo="https://i.imgur.com/SQInLji.png" group-title="Movies",My Time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
@@ -143,5 +143,3 @@ https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Animale",Pluto TV Animals (England) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=&checkedby:iptvcat.com
-
-
